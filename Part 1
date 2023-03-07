@@ -1,0 +1,7 @@
+# ask their name to your users
+
+name = input ("what's your name?")
+
+# print a hello
+
+print ("Hello,",name)
